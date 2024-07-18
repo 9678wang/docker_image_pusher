@@ -5,6 +5,6 @@
 # registry.k8s.io/kube-apiserver:v1.29.2
 # registry.k8s.io/etcd:3.5.10-0
 # registry.k8s.io/coredns/coredns:v1.11.1
-docker/desktop-vpnkit-controller:v2.0
+docker/desktop-vpnkit-controller:dc331cb22850be0cdd97c84a9cfecaf44a1afb6e
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
