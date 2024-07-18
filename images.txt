@@ -6,6 +6,7 @@
 # registry.k8s.io/etcd:3.5.10-0
 # registry.k8s.io/coredns/coredns:v1.11.1
 # docker/desktop-vpnkit-controller:dc331cb22850be0cdd97c84a9cfecaf44a1afb6e
-docker.io/docker/desktop-kubernetes:kubernetes-v1.29.2-cni-v1.4.0-critools-v1.29.0-cri-dockerd-v0.3.11-1-debian
+# docker.io/docker/desktop-kubernetes:kubernetes-v1.29.2-cni-v1.4.0-critools-v1.29.0-cri-dockerd-v0.3.11-1-debian
+kubernetesui/dashboard:v2.5.1
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
